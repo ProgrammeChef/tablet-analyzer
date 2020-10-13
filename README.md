@@ -4,3 +4,5 @@
 </p>
 
 Computer Vision system for real-time recognition, tracking, counting and chromatic analysis of tablets in random free fall on an automatic industrial machine. Project for my Master's degree thesis in "Computer Vision and Image Processing" at University of Bologna, designed and developed as part of an internship carried out at IMA Group.
+
+This repository contains only a preview of the project for reasons of confidentiality of the source code.
