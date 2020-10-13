@@ -1,4 +1,4 @@
-# Tablets Analyser – Computer Vision system for the analysis of tablets
+# Tablets Analyser – Computer Vision system for tablet analysis
 <p align="center">
   <img src="https://github.com/bobcorn/tablets-analyser/blob/master/demo/thumb.gif">
 </p>
