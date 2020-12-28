@@ -1,6 +1,6 @@
 # Tablets Analyser – Computer Vision system for tablet analysis
 
-⚠️ **WARNING! This repository contains only a preview of the project for reasons of confidentiality of the source code.**
+⚠️ **WARNING! This repository contains just a preview of the actual project, for reasons of confidentiality of the source code.**
 
 <p align="center">
   <img src="https://github.com/bobcorn/tablets-analyser/blob/master/demo/thumb.gif">
